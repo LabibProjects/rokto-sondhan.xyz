@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2051b10c-36b0-43d8-a813-f82a8cd9e371)# Rokto Sondhan - Save Lives with Blood Donation
+# Rokto Sondhan - Save Lives with Blood Donation
 
 <p align="center">
   <img src="https://rokto-sondhan.xyz/logo.png" alt="Rokto Sondhan Logo">
