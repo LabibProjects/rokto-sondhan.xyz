@@ -1,6 +1,8 @@
 # Rokto Sondhan - Save Lives with Blood Donation
 
-![Rokto Sondhan Logo](https://rokto-sondhan.xyz/logo.png)
+<p align="center">
+  <img src="https://rokto-sondhan.xyz/logo.png" alt="Rokto Sondhan Logo">
+</p>
 
 **Rokto Sondhan** is a life-saving platform designed to help people find nearby blood donors in Bangladesh. Hospitals often face blood shortages, and even when blood is available, it's not always fresh. This website provides a quick and reliable solution for finding blood donors, especially in emergencies.
 
