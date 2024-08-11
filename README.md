@@ -35,8 +35,12 @@ By donating your blood, you can save lives. Pledge to donate today and help buil
 
 Share this website with others and help increase awareness about the importance of blood donation. Together, we can save lives.
 
-![Blood Donation](![image](https://github.com/user-attachments/assets/b24d837e-7aa5-45c0-842d-03ee152a0062))
-![Blood Donation](![image](https://github.com/user-attachments/assets/54cc9179-7000-4ddf-b12d-2ea5419ae710))
+<p align="center">
+  <img src="https://rokto-sondhan.xyz/logo.png" alt="Rokto Sondhan Logo">
+</p>
+<p align="center">
+  <img src="[https://rokto-sondhan.xyz/logo.png](https://github.com/LabibProjects/rokto-sondhan.xyz/blob/main/Demo/Landing%201.png?raw=true)" alt="Rokto Sondhan ">
+</p>
 
 ---
 
