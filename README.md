@@ -39,7 +39,7 @@ Share this website with others and help increase awareness about the importance 
   <img src="https://rokto-sondhan.xyz/logo.png" alt="Rokto Sondhan Logo">
 </p>
 <p align="center">
-  <img src="[https://rokto-sondhan.xyz/logo.png](https://github.com/LabibProjects/rokto-sondhan.xyz/blob/main/Demo/Landing%201.png?raw=true)" alt="Rokto Sondhan ">
+  <img src="https://github.com/LabibProjects/rokto-sondhan.xyz/blob/main/Demo/Landing1.png?raw=true" alt="Rokto Sondhan ">
 </p>
 
 ---
