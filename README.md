@@ -42,6 +42,14 @@ Share this website with others and help increase awareness about the importance 
   <img src="https://github.com/LabibProjects/rokto-sondhan.xyz/blob/main/Demo/Landing1.png?raw=true" alt="Rokto Sondhan ">
 </p>
 
+
+##Conclution
+Due to security concerns, as this website currently (as of August 11, 2024) contains a substantial amount of donor data, we are committed to maintaining their privacy. Therefore, we are not sharing any source files at this time.
+
+Additionally, starting in mid-July 2024, there was a tragic mass killing of students in Bangladesh. Although the situation has improved, there was a significant blood shortage during that period. As a result, this website was developed in just 24 hours and launched on July 30, 2024.
+
+
+
 ---
 
 ### Contact
